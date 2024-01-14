@@ -1,0 +1,14 @@
+{
+  "name": "gdal-async-rasterize-issue",
+  "version": "1.0.0",
+  "description": "Minimal code to demonstrate an issue with `gdal.rasterizeAsync()`",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gdal-async": "^3.8.3"
+  }
+}
